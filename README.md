@@ -1,4 +1,4 @@
-# :penguin: Linux Experience
+# :penguin: Linux Experience - Projeto 01
 Projeto do Bootcamp Linux Experience - Script de Criação de Estrutura de Usuários, Diretórios e Permissões.
 
 
